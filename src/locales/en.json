@@ -1,0 +1,125 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "app": {
+    "title": "KageLeak",
+    "description": "Data breaches affect millions of people. KageLeak allows you to check if your email address has been compromised in seconds. Stay safe, stay aware.",
+    "emailPlaceholder": "example@email.com",
+    "checkButton": "Check Now",
+    "loading": "Checking...",
+    "testEmail": "👤 For testing: try test@mail.com"
+  },
+  "stats": {
+    "checkedEmails": "Emails Checked",
+    "detectedBreaches": "Breaches Detected",
+    "analysisTime": "Analysis Time"
+  },
+  "results": {
+    "safe": "Your email is safe!",
+    "breached": "Your email was found in {{count}} different data breaches!",
+    "error": "An error occurred",
+    "platforms": "Compromised Platforms",
+    "leakedInfo": "Leaked Information",
+    "andMore": "and {{count}} more platforms...",
+    "warning": "Important Warning: We recommend changing your passwords and enabling two-factor authentication for accounts associated with this email!"
+  },
+  "features": {
+    "passwordLeak": {
+      "title": "Password Leak",
+      "description": "Your passwords might be exposed"
+    },
+    "creditCard": {
+      "title": "Credit Card",
+      "description": "Card information might be at risk"
+    },
+    "personalInfo": {
+      "title": "Personal Information",
+      "description": "Address, phone, birth date might be leaked"
+    }
+  },
+  "advantages": {
+    "free": "Free and anonymous",
+    "reliable": "Data from reliable sources",
+    "noRegistration": "No registration required",
+    "instant": "Instant results"
+  },
+  "developer": {
+    "title": "Developer: Basri Akkaya",
+    "description": "Cybersecurity Enthusiast | React + API Expert"
+  },
+  "buttons": {
+    "generatePDF": "Generate PDF Report",
+    "linkedin": "LinkedIn"
+  },
+  "about": {
+    "title": "About Me",
+    "role": "Cybersecurity Expert | Software Developer",
+    "description": "Hello! I'm Kage, a passionate professional in cybersecurity and software development. The KageLeak project is an initiative I developed to raise awareness about email security and protect users.",
+    "mission": {
+      "title": "My Mission",
+      "description": "I work to enhance the digital security of internet users and raise awareness against data breaches."
+    },
+    "vision": {
+      "title": "My Vision",
+      "description": "To provide innovative solutions for creating a secure environment in the digital world and raising user awareness."
+    },
+    "expertise": {
+      "title": "My Expertise",
+      "areas": {
+        "cybersecurity": "Cybersecurity",
+        "webdev": "Web Development",
+        "dataanalysis": "Data Analysis",
+        "apidev": "API Development",
+        "securitytesting": "Security Testing",
+        "cloud": "Cloud Computing"
+      }
+    },
+    "linkedin": "My LinkedIn Profile"
+  },
+  "contact": {
+    "title": "Contact",
+    "form": {
+      "name": {
+        "label": "Full Name",
+        "placeholder": "Your name and surname"
+      },
+      "email": {
+        "label": "Email Address",
+        "placeholder": "example@email.com"
+      },
+      "message": {
+        "label": "Your Message",
+        "placeholder": "Write your message here..."
+      },
+      "submit": "Send"
+    },
+    "dialog": {
+      "success": {
+        "title": "✅ Success!",
+        "message": "Your message has been sent successfully. We will get back to you as soon as possible."
+      },
+      "error": {
+        "title": "❌ Error!",
+        "message": "An error occurred while sending your message. Please try again later.",
+        "webhook": "Webhook is not configured. Please configure the webhook URL in the Contact.tsx file."
+      },
+      "close": "OK"
+    }
+  },
+  "errors": {
+    "api": {
+      "general": "An error occurred. Please try again later.",
+      "network": "Please check your internet connection and try again.",
+      "timeout": "Request timed out. Please try again.",
+      "invalidEmail": "Invalid email address. Please enter a valid email address.",
+      "rateLimit": "Too many requests. Please wait a while.",
+      "serverError": "Server error. Please try again later.",
+      "unauthorized": "Unauthorized access. Please log in.",
+      "notFound": "The requested resource was not found.",
+      "validation": "Invalid data format. Please check and try again."
+    }
+  }
+} 

@@ -1,0 +1,125 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımda",
+    "contact": "İletişim"
+  },
+  "app": {
+    "title": "KageLeak",
+    "description": "Veri ihlalleri milyonlarca insanı etkiliyor. KageLeak, e-posta adresinizin sızdırılıp sızdırılmadığını saniyeler içinde kontrol etmenizi sağlar. Güvende olun, farkında olun.",
+    "emailPlaceholder": "ornek@email.com",
+    "checkButton": "Kontrol Et",
+    "loading": "Kontrol Ediliyor...",
+    "testEmail": "👤 Test etmek için: test@mail.com adresini deneyin."
+  },
+  "stats": {
+    "checkedEmails": "Kontrol Edilen E-posta",
+    "detectedBreaches": "Tespit Edilen İhlal",
+    "analysisTime": "Analiz Süresi"
+  },
+  "results": {
+    "safe": "E-posta adresiniz güvende!",
+    "breached": "E-posta adresiniz {{count}} farklı veri sızıntısında bulundu!",
+    "error": "Bir hata oluştu",
+    "platforms": "Sızdırılan Platformlar",
+    "leakedInfo": "Sızdırılan Bilgiler",
+    "andMore": "ve {{count}} platform daha...",
+    "warning": "Önemli Uyarı: Bu e-posta adresiyle ilişkili hesaplarınızın şifrelerini değiştirmenizi ve iki faktörlü doğrulama kullanmanızı öneririz!"
+  },
+  "features": {
+    "passwordLeak": {
+      "title": "Parola Sızıntısı",
+      "description": "Şifreleriniz ifşa olabilir"
+    },
+    "creditCard": {
+      "title": "Kredi Kartı",
+      "description": "Kart bilgileri tehlikede olabilir"
+    },
+    "personalInfo": {
+      "title": "Kişisel Bilgiler",
+      "description": "Adres, telefon, doğum tarihi sızmış olabilir"
+    }
+  },
+  "advantages": {
+    "free": "Ücretsiz ve anonim",
+    "reliable": "Güvenilir kaynaklardan veri",
+    "noRegistration": "Kayıt gerektirmez",
+    "instant": "Anında sonuç"
+  },
+  "developer": {
+    "title": "Geliştirici: Basri Akkaya",
+    "description": "Siber Güvenlik Meraklısı | React + API Uzmanı"
+  },
+  "buttons": {
+    "generatePDF": "PDF Rapor Oluştur",
+    "linkedin": "LinkedIn"
+  },
+  "about": {
+    "title": "Hakkımda",
+    "role": "Siber Güvenlik Uzmanı | Yazılım Geliştirici",
+    "description": "Merhaba! Ben Kage, siber güvenlik ve yazılım geliştirme alanında tutkulu bir profesyonelim. KageLeak projesi, e-posta güvenliği konusunda farkındalık yaratmak ve kullanıcıları korumak amacıyla geliştirdiğim bir girişimdir.",
+    "mission": {
+      "title": "Misyonum",
+      "description": "İnternet kullanıcılarının dijital güvenliğini artırmak ve veri sızıntılarına karşı farkındalık oluşturmak için çalışıyorum."
+    },
+    "vision": {
+      "title": "Vizyonum",
+      "description": "Dijital dünyada güvenli bir ortam oluşturmak ve kullanıcıları bilinçlendirmek için yenilikçi çözümler sunmak."
+    },
+    "expertise": {
+      "title": "Uzmanlık Alanlarım",
+      "areas": {
+        "cybersecurity": "Siber Güvenlik",
+        "webdev": "Web Geliştirme",
+        "dataanalysis": "Veri Analizi",
+        "apidev": "API Geliştirme",
+        "securitytesting": "Güvenlik Testleri",
+        "cloud": "Bulut Bilişim"
+      }
+    },
+    "linkedin": "LinkedIn Profilim"
+  },
+  "contact": {
+    "title": "İletişim",
+    "form": {
+      "name": {
+        "label": "Ad Soyad",
+        "placeholder": "Adınız ve soyadınız"
+      },
+      "email": {
+        "label": "E-posta Adresi",
+        "placeholder": "ornek@email.com"
+      },
+      "message": {
+        "label": "Mesajınız",
+        "placeholder": "Mesajınızı buraya yazın..."
+      },
+      "submit": "Gönder"
+    },
+    "dialog": {
+      "success": {
+        "title": "✅ Başarılı!",
+        "message": "Mesajınız başarıyla gönderildi. En kısa sürede size dönüş yapacağız."
+      },
+      "error": {
+        "title": "❌ Hata!",
+        "message": "Mesajınız gönderilirken bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
+        "webhook": "Webhook yapılandırılmamış. Lütfen Contact.tsx dosyasında webhook URL'sini yapılandırın."
+      },
+      "close": "Tamam"
+    }
+  },
+  "errors": {
+    "api": {
+      "general": "Bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
+      "network": "İnternet bağlantınızı kontrol edin ve tekrar deneyin.",
+      "timeout": "İstek zaman aşımına uğradı. Lütfen tekrar deneyin.",
+      "invalidEmail": "Geçersiz e-posta adresi. Lütfen doğru bir e-posta adresi girin.",
+      "rateLimit": "Çok fazla istek gönderdiniz. Lütfen bir süre bekleyin.",
+      "serverError": "Sunucu hatası. Lütfen daha sonra tekrar deneyin.",
+      "unauthorized": "Yetkisiz erişim. Lütfen giriş yapın.",
+      "notFound": "İstenen kaynak bulunamadı.",
+      "validation": "Geçersiz veri formatı. Lütfen kontrol edin ve tekrar deneyin."
+    }
+  }
+} 
