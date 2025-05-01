@@ -1,5 +1,8 @@
-# ![logo](https://github.com/user-attachments/assets/0ed2f403-b850-4d94-af69-4b7d450f3e1b)
+![image](https://github.com/user-attachments/assets/6eb03774-fc20-4e7c-be28-5bd260cd9109)
+
 KageLeak - Email Leak Checker
+![image](https://github.com/user-attachments/assets/9be9785e-7677-41bb-9fb5-f7bfb5858994)
+
 
 [English](#english) | [Türkçe](#türkçe)
 
