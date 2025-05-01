@@ -1,4 +1,5 @@
-# KageLeak - Email Leak Checker
+# ![logo](https://github.com/user-attachments/assets/0ed2f403-b850-4d94-af69-4b7d450f3e1b)
+KageLeak - Email Leak Checker
 
 [English](#english) | [Türkçe](#türkçe)
 
